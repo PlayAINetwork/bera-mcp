@@ -12,7 +12,7 @@ Add the following to your MCP configuration file:
   "mcpServers": {
     "bera-mcp": {
       "command": "node",
-      "args": ["F:/beramcp/bera-mcp/index.js"]
+      "args": ["path/to/your/index.js"]
     }
   }
 }
